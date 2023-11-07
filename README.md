@@ -22,6 +22,13 @@ cd frontend
 npm run start
 ```
 
+# User Login Credentials
+
+```
+username:alice
+password:alicepass
+```
+
 ## Base URL:
 
 The base URL for all endpoints is http://localhost:5000.
